@@ -1,5 +1,5 @@
 ## Screenshot
-# jusr paste the .config folder to home directory 
+# just paste the .config folder to home directory 
 # and start using this script ( change to your home directory )
 ``` 
 waybar -c /home/chizui/.config/hypr/waybar/config -s /home/chizui/.config/hypr/waybar/style.css 
